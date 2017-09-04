@@ -1,2 +1,3 @@
-# google_trends_crypto
-Google Trends Analysis of Crypto
+# Google Trends Analysis of Cryptocurrencies
+
+Description to be added
